@@ -1,0 +1,11 @@
+# this is single line comment
+print("hello world!! -from Shruti Belsare")
+print("3+3")
+print("3*3")
+print("3/3")
+print("3-3")
+print("the ans is as below ---------")
+print(3+3)
+print(3*3)
+print(3/3)
+print(3-3)
